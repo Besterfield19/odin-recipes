@@ -1,2 +1,2 @@
 # odin-recipes
-Practice for various HTML basics
+Practicing various HTML basics utilizing fun recipes found in books!
